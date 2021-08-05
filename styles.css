@@ -1,0 +1,68 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  color: palevioletred;
+  padding: 1px;
+  margin: 1px;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    color: rebeccapurple;
+    padding: 1px;
+    margin: 1px;
+}
+
+div {
+    height: 125px;
+    width: 600px;
+    border: aquamarine;
+    border-style: solid;
+    background-color: thistle;
+    border-width: 10px;
+    margin: auto;
+    border-radius: 50px
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color:thistle;
+    background-color: rebeccapurple;
+}
+
+th {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+tr {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+table, tr, th, td {
+    border: 1px solid black; 
+}
+
+#col_name {
+    font-size: 30px;
+}
+
+th {
+    background-color: aquamarine;
+}
